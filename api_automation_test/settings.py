@@ -163,11 +163,11 @@ WSGI_APPLICATION = 'api_automation_test.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'api_test',
+        'NAME': 'cmcc_he_api',
         'USER': 'root',
-        'PASSWORD': 'lt19910301',
+        'PASSWORD': '123456',
         # 'HOST': '120.79.232.23',
-        'HOST': '172.18.162.26',
+        'HOST': '127.0.0.1',
         'PORT': '3306',
     }
 }

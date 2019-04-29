@@ -3759,3 +3759,316 @@ Traceback (most recent call last):
     self.model._meta.object_name
 api_test.models.DoesNotExist: ApiHead matching query does not exist.
 2019-04-09 19:18:10,030,4477,django.server,ERROR,basehttp.py:124,"POST /api/api/update_api HTTP/1.1" 500 16839
+2019-04-29 13:13:28,825,17544,django.server,ERROR,basehttp.py:154,"GET /static/css/app.eb2f34c27a3e471607e6a85b26d94798.css HTTP/1.1" 500 59
+2019-04-29 13:18:48,148,2836,django.server,ERROR,basehttp.py:154,"GET /favicon.ico HTTP/1.1" 500 59
+2019-04-29 13:22:45,838,8188,django.server,ERROR,basehttp.py:154,"GET /favicon.ico HTTP/1.1" 500 59
+2019-04-29 13:22:52,982,8188,django.server,ERROR,basehttp.py:154,"GET /static/suit/css/font-awesome.min.css HTTP/1.1" 500 59
+2019-04-29 13:23:46,348,8188,django.server,ERROR,basehttp.py:154,"GET /favicon.ico HTTP/1.1" 500 59
+2019-04-29 13:24:04,585,8188,django.server,ERROR,basehttp.py:154,"GET /favicon.ico HTTP/1.1" 500 59
+2019-04-29 13:24:09,075,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/dashboard.css HTTP/1.1" 500 59
+2019-04-29 13:24:14,229,8188,django.server,ERROR,basehttp.py:154,"GET /favicon.ico HTTP/1.1" 500 59
+2019-04-29 13:24:28,684,8188,django.server,ERROR,basehttp.py:154,"GET /favicon.ico HTTP/1.1" 500 59
+2019-04-29 13:24:34,705,8188,django.server,ERROR,basehttp.py:154,"GET /static/suit/css/font-awesome.min.css HTTP/1.1" 500 59
+2019-04-29 13:24:34,706,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/changelists.css HTTP/1.1" 500 59
+2019-04-29 13:24:34,727,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/responsive.css HTTP/1.1" 500 59
+2019-04-29 13:24:34,879,8188,django.server,ERROR,basehttp.py:154,"GET /favicon.ico HTTP/1.1" 500 59
+2019-04-29 13:24:39,104,8188,django.server,ERROR,basehttp.py:154,"GET /favicon.ico HTTP/1.1" 500 59
+2019-04-29 13:24:40,492,8188,django.server,ERROR,basehttp.py:154,"GET /favicon.ico HTTP/1.1" 500 59
+2019-04-29 13:24:41,925,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/forms.css HTTP/1.1" 500 59
+2019-04-29 13:25:10,994,8188,django.server,ERROR,basehttp.py:154,"GET /static/suit/css/font-awesome.min.css HTTP/1.1" 500 59
+2019-04-29 13:25:11,039,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/responsive.css HTTP/1.1" 500 59
+2019-04-29 13:26:01,560,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/js/popup_response.js HTTP/1.1" 500 59
+2019-04-29 13:26:05,873,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/changelists.css HTTP/1.1" 500 59
+2019-04-29 13:27:03,847,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/js/popup_response.js HTTP/1.1" 500 59
+2019-04-29 13:27:08,515,8188,django.server,ERROR,basehttp.py:154,"GET /static/suit/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 500 59
+2019-04-29 13:27:57,999,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/dashboard.css HTTP/1.1" 500 59
+2019-04-29 13:31:04,583,8188,django.server,ERROR,basehttp.py:154,"GET /static/suit/css/font-awesome.min.css HTTP/1.1" 500 59
+2019-04-29 13:31:04,590,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/changelists.css HTTP/1.1" 500 59
+2019-04-29 13:31:04,649,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/responsive.css HTTP/1.1" 500 59
+2019-04-29 13:31:08,263,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/forms.css HTTP/1.1" 500 59
+2019-04-29 13:31:08,274,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 500 59
+2019-04-29 13:31:08,293,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/js/change_form.js HTTP/1.1" 500 59
+2019-04-29 13:31:08,304,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 500 59
+2019-04-29 13:31:22,749,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/responsive.css HTTP/1.1" 500 59
+2019-04-29 13:31:39,195,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/changelists.css HTTP/1.1" 500 59
+2019-04-29 13:31:44,062,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/responsive.css HTTP/1.1" 500 59
+2019-04-29 13:31:44,090,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/forms.css HTTP/1.1" 500 59
+2019-04-29 13:31:48,661,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/changelists.css HTTP/1.1" 500 59
+2019-04-29 13:31:48,663,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/responsive.css HTTP/1.1" 500 59
+2019-04-29 13:31:54,444,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/changelists.css HTTP/1.1" 500 59
+2019-04-29 13:32:09,204,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/forms.css HTTP/1.1" 500 59
+2019-04-29 13:33:01,040,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/responsive.css HTTP/1.1" 500 59
+2019-04-29 13:33:01,067,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/changelists.css HTTP/1.1" 500 59
+2019-04-29 13:33:05,105,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/changelists.css HTTP/1.1" 500 59
+2019-04-29 13:33:11,320,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/changelists.css HTTP/1.1" 500 59
+2019-04-29 13:33:12,934,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/responsive.css HTTP/1.1" 500 59
+2019-04-29 13:33:12,935,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/changelists.css HTTP/1.1" 500 59
+2019-04-29 13:33:16,583,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/forms.css HTTP/1.1" 500 59
+2019-04-29 13:35:22,448,8188,django.server,ERROR,basehttp.py:154,"GET /favicon.ico HTTP/1.1" 500 59
+2019-04-29 13:35:27,731,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/forms.css HTTP/1.1" 500 59
+2019-04-29 13:37:50,177,8188,django.server,ERROR,basehttp.py:154,"GET /static/suit/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 500 59
+2019-04-29 13:38:36,110,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/img/icon-no.svg HTTP/1.1" 500 59
+2019-04-29 13:38:36,123,8188,django.server,ERROR,basehttp.py:154,"GET /static/admin/img/search.svg HTTP/1.1" 500 59
+2019-04-29 13:39:16,943,8188,django.server,ERROR,basehttp.py:154,"GET /admin/auth/user/5/change/?_changelist_filters=o%3D-1 HTTP/1.1" 500 59
+2019-04-29 14:13:55,254,15972,django.server,ERROR,basehttp.py:154,"GET /static/admin/css/responsive.css HTTP/1.1" 500 59
+2019-04-29 14:13:55,432,15972,django.server,ERROR,basehttp.py:154,"GET /favicon.ico HTTP/1.1" 500 59
+2019-04-29 14:15:26,106,15972,django.server,ERROR,basehttp.py:154,"GET /static/admin/img/icon-no.svg HTTP/1.1" 500 59
+2019-04-29 14:31:45,559,2668,django.server,ERROR,basehttp.py:154,"GET /static/css/app.eb2f34c27a3e471607e6a85b26d94798.css HTTP/1.1" 500 59
+2019-04-29 14:31:45,878,2668,django.server,ERROR,basehttp.py:154,"GET /favicon.ico HTTP/1.1" 500 59
+2019-04-29 15:19:16,828,17352,django.server,ERROR,basehttp.py:154,"GET /admin/auth/user/ HTTP/1.1" 500 59
+2019-04-29 16:50:40,536,15872,root,ERROR,automationCase.py:1068,HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014DD3475630>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connection.py", line 159, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\util\connection.py", line 80, in create_connection
+    raise err
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\util\connection.py", line 70, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 354, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1229, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1275, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1224, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1016, in _send_output
+    self.send(msg)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 956, in send
+    self.connect()
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connection.py", line 181, in connect
+    conn = self._new_conn()
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connection.py", line 168, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000014DD3475630>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\adapters.py", line 449, in send
+    timeout=timeout
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\util\retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014DD3475630>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cnxz4\Documents\workspace\api_automation_test\api_test\api\automationCase.py", line 1066, in post
+    _id=data["id"], project_id=data["project_id"])
+  File "C:\Users\cnxz4\Documents\workspace\api_automation_test\api_test\common\confighttp.py", line 185, in test_api
+    code, response_data, header_data = get(header, url, request_parameter_type, parameter)
+  File "C:\Users\cnxz4\Documents\workspace\api_automation_test\api_test\common\confighttp.py", line 334, in get
+    response = requests.get(url=address, params=data, headers=header, timeout=8)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014DD3475630>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2019-04-29 17:06:19,675,15872,root,ERROR,automationCase.py:1068,HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014DD34D4D68>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connection.py", line 159, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\util\connection.py", line 80, in create_connection
+    raise err
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\util\connection.py", line 70, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 354, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1229, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1275, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1224, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1016, in _send_output
+    self.send(msg)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 956, in send
+    self.connect()
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connection.py", line 181, in connect
+    conn = self._new_conn()
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connection.py", line 168, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000014DD34D4D68>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\adapters.py", line 449, in send
+    timeout=timeout
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\util\retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014DD34D4D68>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cnxz4\Documents\workspace\api_automation_test\api_test\api\automationCase.py", line 1066, in post
+    _id=data["id"], project_id=data["project_id"])
+  File "C:\Users\cnxz4\Documents\workspace\api_automation_test\api_test\common\confighttp.py", line 185, in test_api
+    code, response_data, header_data = get(header, url, request_parameter_type, parameter)
+  File "C:\Users\cnxz4\Documents\workspace\api_automation_test\api_test\common\confighttp.py", line 334, in get
+    response = requests.get(url=address, params=data, headers=header, timeout=8)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014DD34D4D68>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2019-04-29 17:10:33,292,15872,root,ERROR,automationCase.py:1068,HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014DD34839E8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connection.py", line 159, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\util\connection.py", line 80, in create_connection
+    raise err
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\util\connection.py", line 70, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 354, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1229, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1275, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1224, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1016, in _send_output
+    self.send(msg)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 956, in send
+    self.connect()
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connection.py", line 181, in connect
+    conn = self._new_conn()
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connection.py", line 168, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000014DD34839E8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\adapters.py", line 449, in send
+    timeout=timeout
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\util\retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014DD34839E8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cnxz4\Documents\workspace\api_automation_test\api_test\api\automationCase.py", line 1066, in post
+    _id=data["id"], project_id=data["project_id"])
+  File "C:\Users\cnxz4\Documents\workspace\api_automation_test\api_test\common\confighttp.py", line 185, in test_api
+    code, response_data, header_data = get(header, url, request_parameter_type, parameter)
+  File "C:\Users\cnxz4\Documents\workspace\api_automation_test\api_test\common\confighttp.py", line 334, in get
+    response = requests.get(url=address, params=data, headers=header, timeout=8)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014DD34839E8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2019-04-29 17:11:29,105,15872,root,ERROR,automationCase.py:1068,HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014DD342B0F0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connection.py", line 159, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\util\connection.py", line 80, in create_connection
+    raise err
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\util\connection.py", line 70, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 354, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1229, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1275, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1224, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1016, in _send_output
+    self.send(msg)
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 956, in send
+    self.connect()
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connection.py", line 181, in connect
+    conn = self._new_conn()
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connection.py", line 168, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000014DD342B0F0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\adapters.py", line 449, in send
+    timeout=timeout
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\ProgramData\Anaconda3\lib\site-packages\urllib3\util\retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014DD342B0F0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cnxz4\Documents\workspace\api_automation_test\api_test\api\automationCase.py", line 1066, in post
+    _id=data["id"], project_id=data["project_id"])
+  File "C:\Users\cnxz4\Documents\workspace\api_automation_test\api_test\common\confighttp.py", line 185, in test_api
+    code, response_data, header_data = get(header, url, request_parameter_type, parameter)
+  File "C:\Users\cnxz4\Documents\workspace\api_automation_test\api_test\common\confighttp.py", line 334, in get
+    response = requests.get(url=address, params=data, headers=header, timeout=8)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014DD342B0F0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
